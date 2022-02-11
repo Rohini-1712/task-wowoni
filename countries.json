@@ -1,0 +1,25 @@
+[{
+    "name":"India",
+    "code":"IN",
+    "id":101
+},
+{
+    "name":"Africa",
+    "code":"AF",
+    "id":102
+},
+{
+    "name":"China",
+    "code":"CH",
+    "id":103
+},
+{
+    "name":"Japan",
+    "code":"JA",
+    "id":104
+},
+{
+    "name":"Italy",
+    "code":"IT",
+    "id":105
+}]

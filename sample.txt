@@ -1,0 +1,4 @@
+Peter loves dog
+John hates cat
+David loves dog
+Michael hates cat
